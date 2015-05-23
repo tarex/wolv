@@ -11,6 +11,12 @@
   "bin": {
     "wolv": "wolv.js"
   },
+  "keywords": [
+    "commandline",
+    "generator",
+    "MVC",
+    "WolverineJS"
+  ],
   "dependencies": {
     "commander": "^2.8.1",
     "mkdirp": "^0.5.1",
