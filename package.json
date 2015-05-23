@@ -1,6 +1,6 @@
 {
   "name": "wolv",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Command lines tools for WolverineJS",
   "main": "wolv.js",
   "scripts": {
@@ -11,6 +11,11 @@
   "bin": {
     "wolv": "wolv.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tarex/wolv.git"
+  },
+
   "keywords": [
     "commandline",
     "generator",
